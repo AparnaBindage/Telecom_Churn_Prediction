@@ -1,6 +1,5 @@
-# Project Name - Lending Club Case Study
-Lending Club company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. In this project we need to identify risky loan applicants, thereby to cut down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
-The goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
+# Project Name - Telecom Churn Prediction
+In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. As a data scientist, your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -11,13 +10,11 @@ The goal is to build a machine learning model that is able to predict churning c
 
 
 ## General Information
-In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. As a data scientist, your task in this case study would be to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
-
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
-For many incumbent operators, retaining high profitable customers is the number one business
-goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn.
+For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, customer-level data of a leading telecom firm will be analyzed, predictive models will be built to identify customers at high risk of churn.
 
+Dataset Link - https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c42/data
 
 ## Steps Performed
 1. Data understanding
